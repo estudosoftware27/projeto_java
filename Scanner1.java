@@ -42,6 +42,8 @@ public class Scanner1 {
 		System.out.println(s1);
 		System.out.println(s2);
 		System.out.println(s3);
+		
+		//O Java é uma excelente linguagem.
 
 		sc.close();
 
